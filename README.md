@@ -6,7 +6,7 @@ In the NBA, injury reports are notoriously unreliable.
 
 For example, LeBron James may be questionable for an entire month and play every day, but Ben Simmons may be questionable for an entire month and never play. Those two players being "questionable" on the injury report mean entirely different things. Also, certain players being questionable/doubftul impacts betting lines more than others.
 
-This program attempts to measure the impact of injuries to specific players by tracking, measuring, and assigning value to injuries that affected the previous day's games. It learns which players were questionable/doubtful to play the night before, and then confirms whether or not they actually played. Then, my models will have better input on how injuries to certain players impacted team performance (and betting lines).
+This program attempts to measure the impact of injuries to specific players by tracking, measuring, and assigning value to injuries that affected the previous day's games. It learns which players were questionable/doubtful to play the night before, and then confirms whether or not they actually played. This process gives my models better input on how injuries to certain players impacted team performance (and betting lines).
 
 # NBA-Referee-Script.py
 This script gathers data on the referees for each NBA game, each day.
